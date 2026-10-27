@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+studyhub.db
+*.db
+
+uploads/*
+!uploads/.gitkeep
